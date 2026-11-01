@@ -1,0 +1,10 @@
+Video2Motion
+Copyright 2026 Video2Motion contributors
+
+Parts of scripts/run_gemx_manual_boxes.py adapt condition assembly from
+NVIDIA GEM-X. Copyright (c) 2026 NVIDIA CORPORATION & AFFILIATES.
+Licensed under Apache License 2.0.
+
+No NVIDIA model weights are included in this repository. When downloaded from
+the official repositories, those weights are licensed separately by NVIDIA.
+See THIRD_PARTY.md.

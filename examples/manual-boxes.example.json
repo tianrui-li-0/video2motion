@@ -1,0 +1,11 @@
+{
+  "video_sha256": "replace-with-sha256-of-input-video",
+  "frames": 300,
+  "width": 1280,
+  "height": 720,
+  "keyframes": [
+    [0, 300, 60, 900, 710],
+    [150, 280, 55, 910, 710],
+    [299, 320, 65, 920, 710]
+  ]
+}
